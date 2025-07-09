@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/139373047?s=200&v=4" alt="Claude Logo" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" alt="Claude Logo" width="100"/>
 </p>
 
 <h1 align="center">Claude Code DevContainer</h1>

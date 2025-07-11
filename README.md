@@ -17,8 +17,7 @@
 
 Claude Code is Anthropic’s terminal-based AI coding assistant that helps you turn ideas into code — fast, privately, and interactively. Think of it as ChatGPT for your terminal.
 
-Learn more → [https://www.anthropic.com/index/claude-code](https://www.anthropic.com/index/claude-code)
-
+> Learn more → [https://docs.anthropic.com/en/docs/claude-code/overview](https://docs.anthropic.com/en/docs/claude-code/overview)
 ---
 
 ## 🧑‍💻 How to Use (in 30 seconds)
